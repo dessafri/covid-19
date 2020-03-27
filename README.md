@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -77,3 +78,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# covid-19
+>>>>>>> 8449de306fd5f61c1b9f8a7e8759c7068a8e62e3
